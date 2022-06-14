@@ -8,13 +8,13 @@
 
 ## Overview
 ### Description
-LifeStyle - lets users achieve fitness goals, see other users who have the same goals and lets them connect.
+LifeStyle - Helps users achieve fitness journey goals, see other users who have the same goals and lets them connect.
 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
+- **Category: Lifestyle**
+- **Mobile: Mobile App**
 - **Story:**
 - **Market:**
 - **Habit:** 
@@ -26,14 +26,14 @@ LifeStyle - lets users achieve fitness goals, see other users who have the same 
 
 **Required Must-have Stories**
 
-* App interacts with a database (e.g. Parse)
-* App integrates with at least one SDK (e.g. Google Maps SDK, Facebook SDK) or API (that you didn’t learn about in CodePath)
+* App interacts with a database (Parse)
+* App integrates with an SDK (Google Maps SDK)
 * User can log in/log out of app
 * User can sign up with a new user profile
 * App has multiple views
-* App uses at least one gesture (e.g. double tap to like, e.g. pinch to scale) 
+* App uses gesture (double tap to like) 
 * App incorporates at least one external library to add visual polish
-* App uses at least one animation (e.g. fade in/out, e.g. animating a view growing and shrinking)
+* App uses animation (fade in/out, animating a view growing and shrinking)
 
 
 
