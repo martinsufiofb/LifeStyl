@@ -8,7 +8,7 @@
 
 ## Overview
 ### Description
-LifeStyle - Helps users achieve fitness journey goals, see other users who have the same goals and lets them connect.
+LifeStyle - Helps users track their fitness journey/goals, see other users who have the same journey/goals and lets them connect.
 
 
 ### App Evaluation
