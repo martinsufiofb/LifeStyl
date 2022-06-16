@@ -28,20 +28,21 @@ LifeStyle - Helps users start their fitness journey/goals, see other users who h
 
 * Users can Sign Up
 * Users can Login and Logout
-* Users can View their profiles along with that of their friends
-* Users can see other uses with the same fitness goals within a 10 mile radius 
-* Users can upload picture after they reach a milestone
+* Users can view a list of workout exercises
+* Users can see other uses with the same fitness goals within a 5 mile radius
+* Users can View their profiles along with that of their friends 
 * Users can see thier friends milestones post
-* Users can like
-* Users can comment
-* Users can search for name to view name's achievements
+* Users can search for username to view users profile
 * Users sees a splash screen when app is launched
 
 
 **Optional Nice-to-have Stories**
 
 * App has a very polished UI
-* App has a great App Idea that could be a real product
+* Users can upload picture after they reach a milestone
+* Users can like and comment on others post
+* Users can view a scrollable list of
+* App uses camera to record the count of an exercises that is done
 
 
 ### 2. Screen Archetypes
@@ -54,8 +55,8 @@ LifeStyle - Helps users start their fitness journey/goals, see other users who h
   * User can Sign up for an account
   
 * Home Screen / Timeline
-  * User can View workouts plan and select one.
-  * User can click on workout plan to see more details
+  * User can View workouts exercises and select one.
+  * User can click on workout exercises to see more details
   
 * Profile Screen
   * User can view thier profile and their Workout description
@@ -68,6 +69,9 @@ LifeStyle - Helps users start their fitness journey/goals, see other users who h
 
 * Splash Screen
   * User sees app icon once the app is launched
+
+* Community screen
+  * User can see people doing the same exercise within a 5 mile radius  
 
 
 ### 3. Navigation
