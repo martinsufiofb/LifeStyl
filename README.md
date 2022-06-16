@@ -8,17 +8,17 @@
 
 ## Overview
 ### Description
-LifeStyle - Helps users track their fitness journey/goals, see other users who have the same journey/goals and lets them connect.
+LifeStyle - Helps users start their fitness journey/goals, see other users who have the same journey/goals and lets them connect.
 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category: Lifestyle**
-- **Mobile: Mobile App**
-- **Story:**
-- **Market:**
-- **Habit:** 
-- **Scope:**
+- **Category:** Fitness & Social
+- **Mobile:** Mobile App
+- **Story:** Allows users to track their fitness journey
+- **Market:** People who would prefer home workout and would love a virtual home workout partner
+- **Habit:** Would be used at the convenience of the users
+- **Scope:** Connecting users with similar home work taste across the neighborhood.
 
 ## Product Spec
 
