@@ -102,7 +102,7 @@ LifeStyle - Helps users start their fitness journey/goals, see other users who h
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://github.com/martinsufiofb/LifeStyle" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
